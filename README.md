@@ -14,4 +14,5 @@ assets 目录下有两张图片，一张原图，一张遮罩图，请使用 obj
 4. 能够对原生模块做容错处理
 
 最终效果图如下
+
 ![effect.png](https://github.com/qianshuiliuyun/rn-test/blob/main/effect.png)
